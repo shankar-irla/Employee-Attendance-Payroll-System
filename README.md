@@ -36,26 +36,33 @@ A modern web-based Employee Attendance & Payroll System built using *React, **Ty
 ### 1. Clone the repo
 
 #### 🔗 Shankar's Repository:
-bash
+```bash
 git clone https://github.com/shankar-irla/Employee-Attendance-Payroll-System.git
+
+```
+```bash
 cd Employee-Attendance-Payroll-System
 
+```
+or
 
 #### 🔗 Vivek's Repository:
-bash
+```bash
 git clone https://github.com/vivek068790/Employee-Register-App.git
+```
+```bash
 cd Employee-Register-App
-
-
+```
 ### 2. Install dependencies
-bash
+```bash
 npm install
 
-
+```
 ### 3. Run in development mode
-bash
+```bash
 npm run dev
 
+```
 
 Visit [http://localhost:5173](http://localhost:5173) in your browser.
 
@@ -63,10 +70,10 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📦 Build for Production
 
-bash
+```bash
 npm run build
 
-
+```
 Output will be in the dist/ folder.
 
 ---
@@ -79,11 +86,11 @@ Output will be in the dist/ folder.
 
 ## 🔒 Admin Credentials (Demo)
 
-bash
+```bash
 Username: admin@example.com
 Password: ********
 
-
+```
 ---
 
 ## 📸 Screenshots
