@@ -28,21 +28,7 @@ A modern web-based Employee Attendance & Payroll System built using *React, **Ty
 ---
 
 ## 📂 Project Structure
-
-
-project/
-├── src/
-│   ├── App.tsx            # Main UI logic
-│   ├── main.tsx           # Entry point
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Login, Dashboard, etc.
-│   └── styles/            # Tailwind / custom styles
-├── public/
-├── index.html
-├── package.json
-└── vite.config.ts
-
-
+![Project Structure](images/project_structure.png)
 ---
 
 ## 🧪 Running the Project Locally
