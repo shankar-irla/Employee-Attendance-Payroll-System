@@ -162,11 +162,11 @@ export const storage = {
     const employees = storage.getEmployees();
     if (employees.length === 0) {
       const demoEmployees: Employee[] = [
-        { id: '1', name: 'Raju', employeeId: 'EMP001', email: 'john@company.com', gender: 'male', position: 'Manager', dateAdded: new Date().toISOString() },
-        { id: '2', name: 'Manya Sri', employeeId: 'EMP002', email: 'sarah@company.com', gender: 'female', position: 'Developer', dateAdded: new Date().toISOString() },
-        { id: '3', name: 'Rohan', employeeId: 'EMP003', email: 'mike@company.com', gender: 'male', position: 'Designer', dateAdded: new Date().toISOString() },
-        { id: '4', name: 'Deepthi', employeeId: 'EMP004', email: 'emily@company.com', gender: 'female', position: 'Analyst', dateAdded: new Date().toISOString() },
-        { id: '5', name: 'vivek', employeeId: 'EMP005', email: 'david@company.com', gender: 'male', position: 'Sales Rep', dateAdded: new Date().toISOString() },
+        { id: '1', name: 'Raju', employeeId: 'EMP001', email: 'irlashankar@gmail.com', gender: 'male', position: 'Manager', dateAdded: new Date().toISOString() },
+        { id: '2', name: 'Manya Sri', employeeId: 'EMP002', email: '238r1a6790@gmail.com', gender: 'female', position: 'Developer', dateAdded: new Date().toISOString() },
+        { id: '3', name: 'Rohan', employeeId: 'EMP003', email: '238r1a67c1.cmr@gmail.com', gender: 'male', position: 'Designer', dateAdded: new Date().toISOString() },
+        { id: '4', name: 'Deepthi', employeeId: 'EMP004', email: 'asrvone@gmail.com', gender: 'female', position: 'Analyst', dateAdded: new Date().toISOString() },
+        { id: '5', name: 'vivek', employeeId: 'EMP005', email: '248r5a6706@gmail.com', gender: 'male', position: 'Sales Rep', dateAdded: new Date().toISOString() },
       ];
       storage.saveEmployees(demoEmployees);
     }

@@ -296,7 +296,7 @@ function App() {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                  <h1 className="text-xl font-bold text-gray-900">Shankar Employee-AtPro</h1>
-                <h3 className="text-xl font-bold text-gray-800">(Employee Attendance & Payroll System)</h3>
+                <h5 className="text-xl font-bold text-gray-800">(Employee Attendance & Payroll System)</h5>
               </div>
               <nav className="ml-10 flex space-x-8">
                 <button
